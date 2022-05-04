@@ -1,5 +1,4 @@
--- Wow, Another rewrite I just really love rewriting stuff huh.
--- Minified UI source to make my life 1000x easier than whatever the fuck I was doing before
+-- Copy This I Know You Want To Skid
 local start = tick()
 
 if Loaded then return end 
